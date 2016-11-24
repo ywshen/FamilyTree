@@ -1,3 +1,6 @@
+#FamilyTree Project
+#Author: Nick Calabrese, Yiwei Shen, William Lawlor
+
 def recAncestors(p1):
     #if the person exists and they have parents
     #call recursive on their parents
